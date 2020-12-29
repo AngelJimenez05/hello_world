@@ -1,4 +1,5 @@
 # hello_world
-This is my first repo
-My name is Angel Jiménez Rico
-I'm physicist and study a master degree in medical physics
+Este es mi primer repositorio creado mediante el curso de Coursera y Google.
+
+Contiene scripts escritos en python de diversa índole que me permitieron
+ explorar las diversas funcionalidades de Git.
